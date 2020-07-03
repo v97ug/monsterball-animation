@@ -1,3 +1,3 @@
 # モンスターボールのアニメーション
 
-![demo](demo.fif)
+![demo](demo.gif)
